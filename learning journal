@@ -1,15 +1,20 @@
-<header>
+<!DOCTYPE html>
+<html>
+
+<head>
   <h1>My Learning Journal</h1>
-</header>
+</head>
 
 <body>
   <h5>Tuesday, August 16, 2022</h5>
-    <article>
+    
       <p>
       Today, I learned about CSS setup, syntax, attributes, and selectors. I spent about an hour reading lessons and doing exercises in Codecademy's full stack program.
       I wish I had started this journal when I started the program back in April of this year but you know, better late than never. By writing down a reflection of what
       I learned, I hope that it'll help me look back one day and understand the progress I've made through my learning journey. I'd like to keep the logs as short as 
       possible... so that's it <em>for now</em>! -Jhas
       </p>
-    </article>
+    
          
+<body>
+</html>

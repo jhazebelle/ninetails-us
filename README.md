@@ -1,10 +1,12 @@
 
 <h1>Welcome to Jhasmin's GitHub</h1>
 
+<br></br>
+
 <h3>About Me</h3>
 <body>
   
-    <p>
+    
   <ul>
 <li>👋 Hi, I’m @jhazebelle (Jhasmin Gambon) </li>
 <li>👀 I’m interested in developing unique applications that streamline workflows as well as creating software that resolve a current issue.</li>
@@ -12,7 +14,7 @@
 <li>💞️ I’m looking to collaborate on anything that will help me learn programming, more specifically with Python and R.</li>
 <li>📫 How to reach me: email jhasmin.gambon@snhu.com or LinkedIn www.linkedin.com/in/jhasmingambon</li>
   </ul>
-    </p>
+    
 
 </body>
 

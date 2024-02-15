@@ -72,19 +72,8 @@ print("\n")
 
 #Paragraph1 Sentence1: Once upon a(n) adjective time in a(n) noun far, far away, there was a(n) adjective programmer named name. 
 #Paragraph1 Sentence2: They were known throughout the land for their incredible skill in verb ending in -ing and their knack for noun plural.
-print("Once upon a(n) ")
-print(varadje1)
-print("time in a(n) ")
-print(varnoun2)
-print("far, far away, there was a(n) ")
-print(varadje3)
-print(" programmer named ")
-print(varname4)
-print(". They were known throughout the land for their incredible skill in ")
-print(varverb5)
-print("and their knack for ")
-print(varnoun6)
-print(".")
+print(f"Once upon a(n) {varadje1} time in a(n) {varnoun2} far, far away, there was a(n) {varadje3} programmer named {varname4}.")
+print(f"They were known throughout the land for their incredible skill in {varverb5} and their knack for {varnoun6}.")
 
 
 
@@ -93,21 +82,8 @@ print("\n")
 
 #Paragraph2 Sentence1: One day, while verb ending in -ing their noun, they stumbled upon a(n) adjective noun hidden deep within the noun.
 #Paragraph2 Sentence2: It was a(n) adjective and adjective noun that promised to verb anything the programmer desired.
-print("One day, while ")
-print(varverb7)
-print(" their ")
-print(varnoun8)
-print(", they stumbled upon a(n) ")
-print(varadje9)
-print(" hidden deep within the ")
-print(varnoun10)
-print(". It was a(n) ")
-print(varadje11)
-print(" and ")
-print(varadje12)
-print(" that promised to ")
-print(varverb13)
-print(" anything the programmer desired.")
+print(f"One day, while {varverb7} their {varnoun8}, they stumbled upon a(n) {varadje9} hidden deep within the {varnoun10}.")
+print(f"It was a(n) {varadje11} and {varadje12} that promised to {varverb13} anything the programmer desired.")
 
 
 
@@ -116,25 +92,8 @@ print("\n")
 
 #Paragraph3 Sentence1: Excitedly, they verb ending in -ed the noun and began to verb with the noun. But little did they know, this noun was cursed! 
 #Paragraph3 Sentence2: Every time they verb past tense, the entire noun would verb and verb uncontrollably.
-print("Excitedly, they ")
-print(varverb14)
-print(" the ")
-print(varnoun15)
-print(" and began to ")
-print(varverb16)
-print(" with the ")
-print(varnoun17)
-print(". But little did they know, this ")
-print(varnoun18)
-print(" was cursed! Every time they ")
-print(varverb19)
-print(", the entire ")
-print(varnoun20)
-print(" would ")
-print(varverb21)
-print(" and ")
-print(varverb22)
-print(" uncontrollably.")
+print(f"Excitedly, they {varverb14} the {varnoun15} and began to {varverb16} with the {varnoun17}.")
+print(f"But little did they know, this {varnoun18} was cursed! Every time they {varverb19}, the entire {varnoun20} would {varverb21} and {varverb22} uncontrollably.")
 
 
 
@@ -143,15 +102,8 @@ print("\n")
 
 #Paragraph4 Sentence1: Despite the challenges, our brave programmer refused to verb! 
 #Paragraph4 Sentence2: With determination and noun, they tirelessly debugged and verb past tense until finally, they conquered the noun.
-print("Despite the challenges, our brave programmer refused to ")
-print(varverb23)
-print("! With determination and ")
-print(varnoun24)
-print(", they tirelessly debugged and ")
-print(varverb25)
-print(" until finally, they conquered the ")
-print(varnoun26)
-print(" .")
+print(f"Despite the challenges, our brave programmer refused to {varverb23}!")
+print(f"With determination and {varnoun24}, they tirelessly debugged and {varverb25} until finally, they conquered the {varnoun26}.")
 
 
 
@@ -160,13 +112,8 @@ print("\n")
 
 #Paragraph5 Sentence1: From that day forward, they were hailed as a hero in the world of noun. 
 #Paragraph5 Sentence2: And the lesson they learned? Always verb your code, for you never know what unexpected surprises may verb along the way.
-print("From that day forward, they were hailed as a hero in the world of ")
-print(varnoun27)
-print(". And the lesson they learned? Always ")
-print(varverb28)
-print(" your code, for you never know what unexpected surprises may ")
-print(varverb29)
-print(" along the way.")
+print(f"From that day forward, they were hailed as a hero in the world of {varnoun27}. And the lesson they learned?")
+print(f"Always {varverb28} your code, for you never know what unexpected surprises may {varverb29} along the way.")
 
 
 
@@ -188,7 +135,7 @@ print(" Did you like the game? Follow me on github.com/jhazebelle or linkedin.co
 
 print("\n")
 
-print(" If you have any feedbacks or suggestions, please feel free to message me on both platforms!")
+print(" If you have any feedback or suggestions, please feel free to message me on both platforms!")
 
 print("\n")
 

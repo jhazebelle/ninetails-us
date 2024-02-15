@@ -21,7 +21,13 @@
 <br></br>
 <h3>Jhasmin Gambon's Portfolio</h3>
 
-
+1. Developed a Celebrity Tribute Page using HTML and CSS
+2. Data Clean a Hypothetical Used Car Dealership's Dataset using SQL and BigQuery
+3. Developed a Financial Budget Template using Google Sheets with Data Visualization and Pivot Tables
+4. Developed a Multiplication Calculator with Python
+5. Developed a Division Calculator with Python
+6. Developed a Haiku Template with Python
+7. Programmed a Mad Libs Game with Python
 
 <!---
 ninetails-us/ninetails-us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

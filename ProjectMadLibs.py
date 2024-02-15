@@ -4,7 +4,7 @@ print("\n")
 print("How To Play:")
 print("This is a game where you, the player, will fill in the blanks in a story. The story will not be revealed until the player has provided all 29 words to the story!")
 
-input("Type 'Enter' to begin:")
+input("Press 'Enter' to begin")
 
 ### USER INPUTS VALUES ###
 
@@ -16,7 +16,7 @@ varname4 = input("Enter a name:")
 varverb5 = input("Enter a verb ending in -ing:")
 varnoun6 = input("Enter a noun plural(more than one thing):")
 print("Congratulations for completing part 1! 4 more parts to go!")
-input("Type 'Enter' to begin:")
+input("Press 'Enter' to continue")
 
 #paragraph2 user inputs
 varverb7 = input("Enter a verb ending in -ing:")
@@ -27,7 +27,7 @@ varadje11 = input("Enter an adjective:")
 varadje12 = input("Enter an adjective with a noun:")
 varverb13 = input("Enter a verb:")
 print("You've completed part 2! 3 more parts to go!")
-input("Type 'Enter' to continue:")
+input("Press 'Enter' to continue")
 
 #paragraph3 user inputs
 varverb14 = input("Enter a verb ending in -ed:")
@@ -40,7 +40,7 @@ varnoun20 = input("Enter a noun:")
 varverb21 = input("Enter a verb:")
 varverb22 = input("Enter a verb:")
 print("You're more than halfway done and completed part 3! 2 more parts to go!")
-input("Type 'Enter' to continue:")
+input("Press 'Enter' to continue")
 
 #paragraph4 user inputs
 varverb23 = input("Enter a verb:")
@@ -48,14 +48,14 @@ varnoun24 = input("Enter a noun:")
 varverb25 = input("Enter a verb past tense:")
 varnoun26 = input("Enter a noun:")
 print("You're on a roll and completed part 4! 1 more part to go!")
-input("Type 'Enter' to continue:")
+input("Press 'Enter' to continue")
 
 #paragraph5 user inputs
 varnoun27 = input("Enter a noun:")
 varverb28 = input("Enter a verb:")
 varverb29 = input("Enter a verb:")
 print("Way to go! You've compelted all parts and it's time to reveal the story with your wisely chosen words!")
-input("Type 'Enter' to reveal the story:")
+input("Press 'Enter' to reveal the story")
 
 
 
@@ -125,7 +125,7 @@ print("\n")
 conclusion = "The end"
 print(conclusion)
 
-input("Type 'Enter' to end the game:")
+input("Press 'Enter' to end the game")
 
 ### ENDING NOTES ###
 
@@ -140,5 +140,5 @@ print(" If you have any feedback or suggestions, please feel free to message me 
 print("\n")
 
 print("Thank you for playing Jhasmin's Mad Libs Game! *You are given a Level 1 badge shaped like a book*")
-input("Type 'T' to turn the badge around:")
+input("Press 'T' to turn the badge around")
 print("*The back of the badge says 'You are destined to start Jhasmin's text-based RPG game'*")

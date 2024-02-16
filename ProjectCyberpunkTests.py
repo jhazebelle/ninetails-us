@@ -1,21 +1,25 @@
-varMin2P1 = "You choose to investigate the shady alleyway and stumble upon a group of cybernetically enhanced street thugs conducting a clandestine deal. They don't seem to have noticed you yet. Do you:"
-# original path1 - You choose to investigate the shady alleyway and stumble upon a group of cybernetically enhanced street thugs conducting a clandestine deal. They don't seem to have noticed you yet. Do you:
-#---Choices:
-# Sneak past the thugs to eavesdrop on their conversation.--original path1--
-# Confront the thugs and demand to know what they're up to.--path1 bad end, continue to path 1.1--
-print(varMin2P1)
-print("A)Sneak past the thugs to eavesdrop on their conversation.")
-print("OR")
-print("B)Confront the thugs and demand to know what they're up to.")
-input("Choose 'A' or 'B' and enter:")
+varMin5 = "You chose A and decided to destroy it for no reason at all"
 
-varMin3P1 = "You manage to sneak past the thugs and overhear snippets of conversation about a high-profile corporate heist planned for tonight. Before you can learn more, one of the thugs spots you and pulls out a weapon. Do you:"
-varMin2P11 = "You decide to confront the thugs and demand to know what they're up to, hoping to gather valuable information about the heist. However, before you can utter another word, the thugs react with hostility, drawing their weapons and surrounding you. It becomes evident that they are not willing to negotiate or share their secrets. Do you:"
-if "A"=="A":
-     print(varMin2P11)
+print("You came across a table. Do you: A) destroy it OR B)rework it and resell it to make a quick buck")
+
+choice = input("Choose A or B and enter:")
+
+if choice == "A":
+    print(varMin5)  
 else:
-     print("You manage to sneak past the thugs and overhear snippets of conversation about a high-profile corporate heist planned for tonight. Before you can learn more, one of the thugs spots you and pulls out a weapon. Do you:")
+    print("You reworked it and met with a stranger online to sell it, but when you met, you ended up being robbed of the table, your phone, and wallet. How unfortunate.")
 
+
+
+
+
+#choice = "B" and "A"
+
+#match choice:
+#     case "A":
+#          print(varMin5)
+#     case _:
+#          print("you reworked it and met with a stranger online to sell it but when you met, you ended up being robbed of the table, your phone, and wallet. how unfortunate.")
 
 
 

@@ -28,6 +28,11 @@
 5. Developed a Division Calculator with Python
 6. Developed a Haiku Template with Python
 7. Programmed a Mad Libs Game with Python
+8. Programmed a Cyberpunk Game with Python
+9. Programmed a Virtual Stylist with Python
+10. Programmed a Shopping List Manager with Python
+
+    
 
 <!---
 ninetails-us/ninetails-us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

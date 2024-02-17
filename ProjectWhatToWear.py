@@ -4,7 +4,7 @@ print("This application takes your input on today's weather, then interprets it 
 input("Press 'Enter' to start:")
 
 
-print(f"It is ____ outside")
+print("It is ____ outside")
 choice = input("Fill in the blank:")
 
 match choice:

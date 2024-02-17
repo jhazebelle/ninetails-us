@@ -10,11 +10,7 @@ choice = input("Fill in the blank:")
 match choice:
      case "sunny":
           print("Wear a hat, short sleeves, and shorts")
-     case "wet":
-          print("Wear a hoodie or raincoat and bring an umbrella")
-     case "raining":
-          print("Wear a hoodie or raincoat and bring an umbrella")
-     case "rainy":
+     case "wet","raining","rainy":
           print("Wear a hoodie or raincoat and bring an umbrella")
      case "windy":
           print("Wear a windbreaker")

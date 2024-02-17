@@ -1,20 +1,45 @@
-varMin5 = "You chose A and decided to destroy it for no reason at all"
+print("What to Wear Application")
 
-print("You came across a table. Do you: A) destroy it OR B)rework it and resell it to make a quick buck")
-
-choice = input("Choose A or B and enter:")
-
-if choice == "A":
-    print(varMin5)  
-else:
-    print("You reworked it and met with a stranger online to sell it, but when you met, you ended up being robbed of the table, your phone, and wallet. How unfortunate.")
+print("This application takes your input on today's weather, then interprets it to give you a recommendation on what to wear today.")
+input("Press 'Enter' to start:")
 
 
+print(f"It is ____ outside")
+choice = input("Fill in the blank:")
+
+match choice:
+     case "sunny":
+          print("Wear a hat, short sleeves, and shorts")
+     case "wet":
+          print("Wear a hoodie or raincoat and bring an umbrella")
+     case "raining":
+          print("Wear a hoodie or raincoat and bring an umbrella")
+     case "rainy":
+          print("Wear a hoodie or raincoat and bring an umbrella")
+     case "windy":
+          print("Wear a windbreaker")
+     case "snowy":
+          print("Dress in your snowjacket, thick pants, boots, gloves, and beanie")
+     case _:
+          print("Wear your usual outfit")
+
+#varMin5 = "You chose A and decided to destroy it for no reason at all"
+#
+#print("You came across a table. Do you: A) destroy it OR B)rework it and resell it to make a quick buck")
+#
+#choice = input("Choose A or B and enter:")
+#
+#if choice == "A":
+#    print(varMin5)  
+#else:
+#    print("You reworked it and met with a stranger online to sell it, but when you met, you ended up being robbed of the table, your phone, and wallet. How unfortunate.")
 
 
 
-#choice = "B" and "A"
 
+
+#choice == "B" and "A"
+#
 #match choice:
 #     case "A":
 #          print(varMin5)
@@ -72,16 +97,7 @@ else:
 #print(len(numbers))
 
 
-#varMin5 = "You chose A and decided to destroy it for no reason at all"
-
-#print("You came across a table. Do you: A) destroy it OR B)rework it and resell it to make a quick buck")
-#input("Choose A or B and enter:")
-
-#if "B"=="B":
-#    print("you reworked it and met with a stranger online to sell it but when you met, you ended up being robbed of the table, your phone, and wallet. how unfortunate.")
-#else:
-#    print(varMin5)
-
+### TYPECODES ###
 #TYPECODE	C TYPE	PYTHON TYPE	SIZE
 #'b'	signed char	int	1
 #'B'	unsigned char	int	1

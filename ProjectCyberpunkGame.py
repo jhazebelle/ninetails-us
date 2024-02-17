@@ -66,7 +66,8 @@
 
 
 #-----Title: Neon Streets: The Cybernetic Conspiracy
-
+print("Neon Streets: The Cybernetic Conspiracy")
+input("Press 'Enter' to begin:")
 
 
 #-----Minute 1 INTRO:-----

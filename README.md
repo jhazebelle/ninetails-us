@@ -31,6 +31,7 @@
 8. Programmed a Cyberpunk Game with Python
 9. Programmed a Virtual Stylist with Python
 10. Programmed a Shopping List Manager with Python
+11. Developed an Address Book with Python
 
     
 

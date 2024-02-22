@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 import time
 
 # SMS gateway API credentials
-api_key = "your_api_key"
-api_secret = "your_api_secret"
-sms_from = "your_sender_phone_number"
-sms_to = "recipient_phone_number"
+api_key = "x"
+api_secret = "x"
+sms_from = "x"
+sms_to = "x"
 message = "Website content changed!"
 
 # URL of the webpage to monitor
@@ -24,7 +24,7 @@ def extract_info(html_content):
     # Extract relevant information here
     # For example:
     # info = soup.find('div', class_='info').text
-    info = soup.find('div', class_='info').text
+    info = soup.find('div', class_='iNL53').text
     return info
 
 # Function to send SMS notification

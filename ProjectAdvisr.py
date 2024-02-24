@@ -60,3 +60,6 @@ while True:
     
     # Wait for some time before checking again
     time.sleep(60)  # Check every 60 seconds
+
+# Check if permissions are needed to extract the change/scrape the data from the webpages used
+# If being used for your workplace, obtain permission from management 
